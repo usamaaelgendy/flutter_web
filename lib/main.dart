@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              "My name usama",
+              "last commit ",
               style: TextStyle(
                 fontSize: 40,
               ),
